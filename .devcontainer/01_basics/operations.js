@@ -8,6 +8,7 @@ console.log(negValue);
 //console.log(2**2); express in power
 //console.log(2/2);
 //console.log(2%2);
+////////
 
 //for strings joining
 let str1 = "iqra"
